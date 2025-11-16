@@ -41,8 +41,8 @@ end <br>
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
-Gain margin = <br>
-Phase Margin = <br>
-Gain crossover frequency = <br>
-Phase crossover frequency = <br>
-The system is  ------------
+Gain margin = 0.7 <br>
+Phase Margin = -8.88<br>
+Gain crossover frequency = 3.75<br>
+Phase crossover frequency = 3.16<br>
+The system is  unstable
